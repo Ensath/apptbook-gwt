@@ -1,0 +1,3 @@
+# Module apptbook
+# RPC service class, partial path of RPC policy file
+edu.pdx.cs410J.noah25.client.AppointmentBookService, 8A553555E09F18C266DEAF13B8E86998.gwt.rpc

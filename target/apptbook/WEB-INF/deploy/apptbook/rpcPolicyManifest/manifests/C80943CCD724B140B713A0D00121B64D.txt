@@ -1,0 +1,2 @@
+serviceClass: edu.pdx.cs410J.noah25.client.AppointmentBookService
+path: 8A553555E09F18C266DEAF13B8E86998.gwt.rpc
